@@ -1,0 +1,11 @@
+{
+  "name": "water",
+  "version": "1.0.0",
+  "description": "Mix water from red bottles to blue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Levin Evgeniy (levinevgeniyr@gmail.com)",
+  "license": "ISC"
+}
